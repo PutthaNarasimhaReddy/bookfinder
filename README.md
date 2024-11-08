@@ -7,11 +7,11 @@ A React-based application for searching books using the Open Library API. Users 
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Usage](#usage)
+
 - [API Information](#api-information)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ---
 
@@ -42,7 +42,10 @@ A React-based application for searching books using the Open Library API. Users 
    git clone https://github.com/your-username/book-finder-app.git
    cd book-finder-app
    
-## projectstructures
+## api-information
+https://openlibrary.org/search.json?title={bookTitle}
+   
+## project-structure
 
 Book-Finder-App/
 ├── src/
